@@ -11,7 +11,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-A **MISP cookbook** for threat-intelligence sharing platform, localhost-only deployment. Patterns are drawn from the ZQM fleet's MISP deployment on Node-3 via Docker, localhost-only. Deployment rules from the fleet: never run compose without all five secret environment variables, and re-apply the Authorization-header clone patch after upstream pulls, because the bundled nginx drops it. It is intended for Threat-intelligence teams who share indicators privately. Validate each pattern against your own data, software versions, and operating environment before adopting it.
+A **MISP cookbook** for threat-intelligence sharing platform, localhost-only deployment. Patterns are drawn from the ZQM fleet's MISP deployment on Node-3 via Docker, localhost-only (as of Oct 2026; verify against the current fleet). Deployment rules from the fleet: never run compose without all five secret environment variables, and re-apply the Authorization-header clone patch after upstream pulls, because the bundled nginx drops it. It is intended for Threat-intelligence teams who share indicators privately. Validate each pattern against your own data, software versions, and operating environment before adopting it.
 
 ## Repository role and status
 
