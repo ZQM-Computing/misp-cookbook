@@ -35,6 +35,8 @@ Threat-intelligence teams who share indicators privately.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-docker-deploy` | Deploying MISP with all five secrets set |
